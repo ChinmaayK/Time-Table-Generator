@@ -1,0 +1,2 @@
+Days Per Week=5
+Classes Per Day=8
